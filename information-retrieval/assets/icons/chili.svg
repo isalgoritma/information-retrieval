@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Chili pepper icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M13 42c5-11 16-20 29-21 6 0 10 4 9 10-2 13-14 23-28 24-9 1-14-5-10-13Z" fill="#E76555" stroke="#263A34" stroke-width="2.7"/>
+    <path d="M45 21c-1-7 2-12 8-14-1 7 1 10 5 12-4 4-9 5-13 2Z" fill="#91AA8D" stroke="#263A34" stroke-width="2.4"/>
+    <path d="M17 44c8-8 18-14 28-16" stroke="#F69A83" stroke-width="2.5"/>
+    <path d="M12 48c-2 4-1 7 3 9" stroke="#263A34" stroke-width="2.2"/>
+
+  </g>
+</svg>

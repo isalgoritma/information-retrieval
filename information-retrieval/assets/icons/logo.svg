@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Recipe Finder logo</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <circle cx="40" cy="42" r="32" fill="#FFF2D9"/>
+    <path d="M18 34h44l-3.5 23a6 6 0 0 1-6 5H27.5a6 6 0 0 1-6-5L18 34Z" fill="#E9794F" stroke="#263A34" stroke-width="2.6"/>
+    <path d="M22 34c0-8 8-14 18-14s18 6 18 14" fill="#F2C96D" stroke="#263A34" stroke-width="2.6"/>
+    <path d="M27 28c2-4 5-6 9-7M39 21c4 1 7 3 9 7" stroke="#FFFCF5" stroke-width="2.4"/>
+    <path d="M13 40h5M62 40h5" stroke="#263A34" stroke-width="3.2"/>
+    <path d="M34 44c2-2 5-2 7 0M34 51c2-2 5-2 7 0" stroke="#FFFCF5" stroke-width="2.3"/>
+    <path d="M48 8c4 3 5 7 3 11-4-1-7-4-7-8 1-2 2-3 4-3Z" fill="#91AA8D" stroke="#263A34" stroke-width="1.8"/>
+    <path d="M47 17l5-6" stroke="#263A34" stroke-width="1.5"/>
+    <text x="88" y="42" fill="#263A34" stroke="none" font-family="'Poppins', 'Trebuchet MS', Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-0.8">Recipe Finder</text>
+    <path d="M89 52h142" stroke="#E9794F" stroke-width="3"/>
+
+  </g>
+</svg>

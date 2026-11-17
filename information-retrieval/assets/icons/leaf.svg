@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Leaf commodity chip icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M52 9C31 8 14 14 10 31c-3 13 8 22 20 18C46 44 52 27 52 9Z" fill="#91AA8D" stroke="#263A34" stroke-width="2.7"/>
+    <path d="M12 53c9-13 19-22 34-34M25 39l-2-11M34 30l11 1" stroke="#FFFCF5" stroke-width="2.4"/>
+
+  </g>
+</svg>

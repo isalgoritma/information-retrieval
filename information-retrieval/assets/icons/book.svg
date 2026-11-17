@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Recipe book icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M8 13c9-3 17-1 24 4v37c-7-5-15-7-24-4V13Z" fill="#FFF2D9" stroke="#263A34" stroke-width="2.6"/>
+    <path d="M56 13c-9-3-17-1-24 4v37c7-5 15-7 24-4V13Z" fill="#F2C96D" stroke="#263A34" stroke-width="2.6"/>
+    <path d="M14 22c5-1 9 0 13 2M14 30c5-1 9 0 13 2M14 38c5-1 9 0 13 2" stroke="#64836C" stroke-width="2.1"/>
+    <path d="M50 22c-5-1-9 0-13 2M50 30c-5-1-9 0-13 2M50 38c-5-1-9 0-13 2" stroke="#C95D3D" stroke-width="2.1"/>
+    <path d="M32 17v37" stroke="#263A34" stroke-width="2.1"/>
+
+  </g>
+</svg>

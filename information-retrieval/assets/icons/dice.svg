@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Random recipe dice icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="m32 7 22 12v26L32 57 10 45V19L32 7Z" fill="#E9794F" stroke="#263A34" stroke-width="2.8"/>
+    <path d="m10 19 22 13 22-13M32 32v25" stroke="#263A34" stroke-width="2.5"/>
+    <path d="M21 21h.1M43 21h.1M21 43h.1M43 43h.1M32 37h.1M32 49h.1" stroke="#FFFCF5" stroke-width="5.3"/>
+    <path d="M21 21h.1M43 21h.1M21 43h.1M43 43h.1M32 37h.1M32 49h.1" stroke="#263A34" stroke-width="1.1"/>
+
+  </g>
+</svg>

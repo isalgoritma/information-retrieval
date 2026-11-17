@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Settings gear icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M27 7h10l2 6a20 20 0 0 1 4 2l6-2 5 9-5 4a19 19 0 0 1 0 5l5 4-5 9-6-2a20 20 0 0 1-4 2l-2 6H27l-2-6a20 20 0 0 1-4-2l-6 2-5-9 5-4a19 19 0 0 1 0-5l-5-4 5-9 6 2a20 20 0 0 1 4-2l2-6Z" fill="#F2C96D" stroke="#263A34" stroke-width="2.5"/>
+    <circle cx="32" cy="32" r="9" fill="#FFFCF5" stroke="#263A34" stroke-width="2.5"/>
+    <circle cx="32" cy="32" r="3" fill="#E9794F"/>
+
+  </g>
+</svg>

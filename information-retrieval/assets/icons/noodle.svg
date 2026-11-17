@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Noodle bowl icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M10 35h44c-1 13-10 22-22 22S11 48 10 35Z" fill="#E9794F" stroke="#263A34" stroke-width="2.7"/>
+    <path d="M8 35h48" stroke="#263A34" stroke-width="3.2"/>
+    <path d="M17 34c-2-8 5-11 8-4 2-12 12-12 13-1 4-8 12-4 9 5" stroke="#F2C96D" stroke-width="3.2"/>
+    <path d="M18 42c5 4 10 4 15 0s10-4 15 0" stroke="#FFFCF5" stroke-width="2.2"/>
+    <path d="m42 8 13 22M48 6 59 25" stroke="#263A34" stroke-width="2.6"/>
+    <path d="M24 57v3M40 57v3" stroke="#263A34" stroke-width="2.3"/>
+
+  </g>
+</svg>

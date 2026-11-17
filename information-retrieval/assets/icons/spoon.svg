@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Spoon ingredient bullet icon</title>
+  <desc id="desc">Illustration icon for the Recipe Finder interface.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M24 9c-8 0-13 7-13 15 0 9 6 15 13 15s13-6 13-15c0-8-5-15-13-15Z" fill="#F2C96D" stroke="#263A34" stroke-width="2.7"/>
+    <path d="M24 39v15a5 5 0 0 0 10 0V39" fill="#E9794F" stroke="#263A34" stroke-width="2.7"/>
+    <path d="M20 18c-2 2-3 4-3 7" stroke="#FFFCF5" stroke-width="2.4"/>
+
+  </g>
+</svg>

@@ -1,4 +1,3 @@
-
 import json
 import re
 from pathlib import Path
@@ -55,25 +54,18 @@ def stemming(tokens):
 
 # Pipeline preprocessing untuk query maupun teks
 def preprocess_text(text):
-    # Case Folding
     text = case_folding(text)
 
-    # Punctuation Removal
     text = punctuation_removal(text)
 
-    # Tokenization
     tokens = tokenization(text)
 
-    # Stopword Removal sebelum stemming
     tokens = stopword_removal(tokens)
 
-    # Stemming menggunakan Sastrawi
     tokens = stemming(tokens)
 
-    # Stopword Removal kembali setelah stemming
     tokens = stopword_removal(tokens)
 
-    # Menghilangkan token duplikat
     tokens = list(dict.fromkeys(tokens))
 
     return tokens
